@@ -1,4 +1,4 @@
-## BATTLESHIP 
+# BATTLESHIP 🛥️
 
 server runs as a daemon process w/ logging to syslog.
 
@@ -11,7 +11,7 @@ server by default binds to port 1111 (configurable)
 partially based on the code by github.com/rougeth/
 
 
-## How to play
+## How to implement 
 
 To install this, simply run `make` command
 
