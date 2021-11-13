@@ -1,4 +1,4 @@
-## BattleShip
+## BATTLESHIP 
 
 server runs as a daemon process w/ logging to syslog.
 
